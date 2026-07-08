@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6l0024/T/v1/markers/51
+seq: 51
+markers:
+  front: []
+  body:
+  - {type: indent, offset: 0, content: 　, id: ''}
+  - {type: line-break, offset: 0, content: '', id: T_0417b16}
+  - {type: line-break, offset: 0, content: '', id: T_0417b17}
+  - {type: line-break, offset: 0, content: '', id: T_0417b18}
+  - {type: paragraph-break, offset: 0, content: '', id: KR6l0024_T_050-0401a10.p.50_end, role: close}
+  - {type: line-break, offset: 0, content: '', id: T_0417b19}
+  - {type: paragraph-break, offset: 9, content: '', id: KR6l0024_T_051-0417b20.p.51, role: open}
+  - {type: 'tls:seg', offset: 9, content: '', id: KR6l0024_T_051-0417b20.s1}
+  - {type: line-break, offset: 9, content: '', id: T_0417b20}
+  - {type: indent, offset: 9, content: 　, id: ''}
+  - {type: indent, offset: 9, content: 　, id: ''}
+  - {type: punctuation, offset: 9, content: (, id: ''}
+  back: []
+hash: sha256:2279908b1d73abecb40af50a8ab17aa1d1960f3e295532f5b9d367f695b254bb

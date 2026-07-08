@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6l0024/t/v1/juan/48
+seq: 48
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 倶舍論第十六卷抄上此卷闕
+  hash: sha256:0aed35a54134eda526950fcf905a0d3839ebf133090cbd2a0bd3efcac708f7a1
+  markers:
+  - {type: 'tls:div-end', offset: 0, content: '', id: KR6l0024_T_047-0393c23.h.47}
+  - {type: 'tls:div-start', offset: 0, content: '', id: KR6l0024_T_048-0400b03.h.48, level: 2, head_text: 倶舍論第十六卷抄上}
+  - {type: 'tls:head', offset: 0, content: '', id: KR6l0024_T_048-0400b03.h.48}
+metadata:
+  title: 倶舍論本義抄
+  edition:
+    short: t
+  source:
+    repository: tls-texts
+    path: data/tls/KR6l0024.xml
+hash: sha256:d78a95381ecda69a7d560a0b2a7e94ab6b192bcec79fb5ab6528a42e2458c5ca

@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6l0024/t/v1/juan/51
+seq: 51
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 倶舍論第十七卷抄上此卷闕
+  hash: sha256:3c507547eb5deb01056b4353382f6d3382c3c0b59e024b2335792b83f2360a13
+  markers:
+  - {type: 'tls:div-end', offset: 0, content: '', id: KR6l0024_T_050-0401a09.h.50}
+  - {type: 'tls:div-start', offset: 0, content: '', id: KR6l0024_T_051-0417b19.h.51, level: 2, head_text: 倶舍論第十七卷抄上}
+  - {type: 'tls:head', offset: 0, content: '', id: KR6l0024_T_051-0417b19.h.51}
+metadata:
+  title: 倶舍論本義抄
+  edition:
+    short: t
+  source:
+    repository: tls-texts
+    path: data/tls/KR6l0024.xml
+hash: sha256:914be111e3d542d24a7f470c6ab95b8289094acde085afa5df33fc2e2b004198

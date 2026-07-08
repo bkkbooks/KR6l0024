@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6l0024/bkk/v1/markers/62
+seq: 62
+markers:
+  front: []
+  body:
+  - {type: indent, offset: 0, content: 　, id: ''}
+  - {type: line-break, offset: 0, content: '', id: T_0509b26}
+  - {type: line-break, offset: 0, content: '', id: T_0509b27}
+  - {type: paragraph-break, offset: 0, content: '', id: KR6l0024_T_061-0489a11.p.61_end, role: close}
+  - {type: line-break, offset: 0, content: '', id: T_0509b28}
+  - {type: substitution, offset: 0, original: 倶, replacement: 俱, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20756}}
+  - {type: paragraph-break, offset: 10, content: '', id: KR6l0024_T_062-0509b29.p.62, role: open}
+  - {type: 'tls:seg', offset: 10, content: '', id: KR6l0024_T_062-0509b29.s1}
+  - {type: line-break, offset: 10, content: '', id: T_0509b29}
+  - {type: indent, offset: 10, content: 　, id: ''}
+  - {type: indent, offset: 10, content: 　, id: ''}
+  - {type: punctuation, offset: 10, content: (, id: ''}
+  back: []
+hash: sha256:96f14e8a3e83b9e346d8021d566f9ba9c2223cc6ce78dcdf488294861b9aca8e

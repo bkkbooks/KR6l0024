@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6l0024/t/v1/juan/62
+seq: 62
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 倶舍論第二十一卷抄上此卷闕
+  hash: sha256:0f34f5ac9cff35628cc85cc11ebc2b6f089d1e45cdbcbf61d6d978a86fbbaf2a
+  markers:
+  - {type: 'tls:div-end', offset: 0, content: '', id: KR6l0024_T_061-0489a10.h.61}
+  - {type: 'tls:div-start', offset: 0, content: '', id: KR6l0024_T_062-0509b28.h.62, level: 2, head_text: 倶舍論第二十一卷抄上}
+  - {type: 'tls:head', offset: 0, content: '', id: KR6l0024_T_062-0509b28.h.62}
+metadata:
+  title: 倶舍論本義抄
+  edition:
+    short: t
+  source:
+    repository: tls-texts
+    path: data/tls/KR6l0024.xml
+hash: sha256:665801b2a5becb8bb14836ad433c2211c9652fae3b398dc71c87c3fd9ea5d9bf

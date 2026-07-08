@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6l0024/t/v1/juan/41
+seq: 41
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 俱舍論第十三卷抄上問題問以欲天善業名雜業可云耶問頌文思即是意業云云爾者限意識相應可云耶問光法師意約所依可云立意業耶問薩婆多宗意以定境界色可云無見無對色耶問有宗意證無表實有義引八證見爾者法處色證光法師如何釋之耶問於色界可有表所發無表耶問光法師意色界聞慧可發表業耶問頌文欲後念無表依邊大種生云云爾者今此後念無表能造大種者即為初念無表能造將別類大種可云耶問光法師意於有對色成能造大種不成所造色義有可云耶問中間禪所攝隨轉戒即彼地大種所造也可云耶問有是剎那謂初無漏云云爾者今此初無漏者可云限現前苦法忍耶問散無表能造大種與定無表能造大種為同類因義可有耶問寶法師今解釋中引正理論説雜對別異有情相續發多無貪所生無表云云爾者今此衆多無表者一具大種所造可云耶
+  hash: sha256:7a8cd4d92135c50e32069d5cf28a95d6c856f5764ea9fb0f45e77dd27ee2cc4a
+  markers:
+  - {type: 'tls:div-end', offset: 0, content: '', id: KR6l0024_T_040-0335a24.h.40}
+  - {type: 'tls:div-start', offset: 0, content: '', id: KR6l0024_T_041-0350a03.h.41, level: 2, head_text: 倶舍論第十三卷抄上}
+  - {type: 'tls:head', offset: 0, content: '', id: KR6l0024_T_041-0350a03.h.41}
+metadata:
+  title: 倶舍論本義抄
+  edition:
+    short: t
+  source:
+    repository: tls-texts
+    path: data/tls/KR6l0024.xml
+hash: sha256:6cfc91cc427fb2d7a07ae7ccccc616a5170748e656bcad9ebb1476593f840cf2
