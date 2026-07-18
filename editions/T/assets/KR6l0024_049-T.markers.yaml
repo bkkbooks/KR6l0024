@@ -9,6 +9,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: T_0400b07}
   - {type: paragraph-break, offset: 0, content: '', id: KR6l0024_T_048-0400b04.p.48_end, role: close}
   - {type: line-break, offset: 0, content: '', id: T_0400b08}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR6l0024_T_049-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: paragraph-break, offset: 9, content: '', id: KR6l0024_T_049-0400b09.p.49, role: open}
   - {type: 'tls:seg', offset: 9, content: '', id: KR6l0024_T_049-0400b09.s1}
   - {type: line-break, offset: 9, content: '', id: T_0400b09}
@@ -262,4 +263,4 @@ markers:
   - {type: indent, offset: 666, content: 　, id: ''}
   - {type: indent, offset: 666, content: 　, id: ''}
   back: []
-hash: sha256:f01dc04921845df05c8498acfec04b6e97fa5b9e5a5faa6bad80b39aba070400
+hash: sha256:92ce3d87166e59132c78bf00c29f1682aed3a54e69187a226b9ae7239fe31b2b

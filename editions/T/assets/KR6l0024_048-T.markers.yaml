@@ -18,5 +18,6 @@ markers:
   - {type: indent, offset: 9, content: 　, id: ''}
   - {type: indent, offset: 9, content: 　, id: ''}
   - {type: punctuation, offset: 9, content: (, id: ''}
+  - {type: 'voice:problem', offset: 9, length: 0, id: KR6l0024_T_048-bkkvprob1, source: parens, bucket: body, code: unmatched-open, message: unmatched '(' at offset 9}
   back: []
-hash: sha256:b531b37e2adf3af8158d720b1a1d0605230a0eee89377ebdd76756a2156bfd20
+hash: sha256:ecae4d6884e704e5cfdcf9a90ef6d581920ea4d6d7cfefe761fb903ce26aef9e

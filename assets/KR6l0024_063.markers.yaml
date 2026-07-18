@@ -10,6 +10,7 @@ markers:
   - {type: paragraph-break, offset: 0, content: '', id: KR6l0024_T_062-0509b29.p.62_end, role: close}
   - {type: line-break, offset: 0, content: '', id: T_0509c03}
   - {type: substitution, offset: 0, original: 倶, replacement: 俱, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20756}}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR6l0024_bkk_063-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: paragraph-break, offset: 10, content: '', id: KR6l0024_T_063-0509c04.p.63, role: open}
   - {type: 'tls:seg', offset: 10, content: '', id: KR6l0024_T_063-0509c04.s1}
   - {type: line-break, offset: 10, content: '', id: T_0509c04}
@@ -335,4 +336,4 @@ markers:
   - {type: indent, offset: 648, content: 　, id: ''}
   - {type: indent, offset: 648, content: 　, id: ''}
   back: []
-hash: sha256:f574495b8f20cdb083291281ce45f9950db238b056c91b280a446e04ae21e5b6
+hash: sha256:eae55743d09a166786ce7f0dd1f6f718553ede2bbbd377f5ecd7652857cb3f30
